@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Advay P Kishore</h1>
 
 <h2 align="center">Game Devolopment and Web Devolopment </h2>
-<img align="right" height="759" width="1000" src=https://itchronicles.com/wp-content/uploads/2021/04/Optimized-Illustration-from-Adobe-Stock-for-ITC-Post-on-AI-in-Game-Development-scaled.jpeg">
+<img align="right" height="759" width="1000" src=https://beamable.com/wp-content/uploads/2022/02/Sep-3.png">
 
 
 
